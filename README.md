@@ -21,7 +21,7 @@ En primer lugar vamos a poner el comando para instalar el Maven y veremos su ver
 
 ### Instalación de una versión concreta <a name=id2></a>
 
-Empezaremos descargando e instalando la version 3.8.6 de Maven.
+Empezaremos descargando e instalando la versión 3.8.6 de Maven.
 
 ![](img/img2.1.png)
 
