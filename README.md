@@ -29,11 +29,11 @@ Extraemos el archivo.
 
 ![](img/img2.2.png)
 
-Creamos un enlace simbólico para tener mas control sobre las versiones.
+Hacemos un enlace simbólico para tener mas control sobre las versiones.
 
 ![](img/img2.3.png)
 
-creamos un archivo para establecer las variables de entorno
+Creamos un archivo para establecer las variables de entorno
 
 ![](img/img2.4.png)
 ![](img/img2.5.png)
